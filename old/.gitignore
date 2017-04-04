@@ -1,0 +1,18 @@
+#Intellij project files
+../.idea/
+*.iml
+*.ipr
+*.iws
+*.swp
+.svn
+.DS_Store
+
+#abantecart working files
+/old/public_html/admin/system/updates.xml
+/old/public_html/admin/system/temp/
+/old/public_html/admin/system/backup/
+/old/public_html/admin/system/uploads/
+/old/public_html/system/cache/*
+/old/public_html/system/logs/*
+/old/public_html/system/config.php
+/old/public_html/image/thumbnails/*
